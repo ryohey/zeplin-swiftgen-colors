@@ -1,0 +1,11 @@
+{
+  "packageName": "zeplin-swiftgen-colors",
+  "name": "swiftgen-colors",
+  "description": "Export Styleguide Colors to SwiftGen Colors.txt",
+  "version": "0.1.0",
+  "projectTypes": [
+    "ios"
+  ],
+  "moduleURL": "./main.34f3bff7.js",
+  "readmeURL": "./README.md"
+}
