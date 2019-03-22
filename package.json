@@ -1,6 +1,6 @@
 {
   "name": "zeplin-swiftgen-colors",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Export Styleguide Colors to SwiftGen Colors.txt",
   "scripts": {
     "start": "zem start",
